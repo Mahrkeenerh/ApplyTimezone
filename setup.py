@@ -7,7 +7,7 @@ setup(
     author='Samuel Buban',
     author_email='samuelbuban@gmail.com',
     packages=['applyTimezone'],
-    install_requires=['dateutil'],
+    install_requires=['python-dateutil'],
     version='1.0',
     license='MIT',
     description='A package to convert to UTC time',
